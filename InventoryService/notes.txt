@@ -1,0 +1,6 @@
+http://localhost:8080/InventoryService/services/listServices
+
+./wsdl2java.sh -o test -d adb -uri http://localhost:8080/InventoryService/services/InventoryService?wsdl
+
+
+Mac java7 home: /Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/bin
